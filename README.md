@@ -31,7 +31,7 @@ whitelist:
 
 **Exploiting**
 
-By spoofing your username to be "zPirroZ3007" and spoofing your UUID to be any operators UUID, you are able to bypass the plugin.
+By spoofing your username to "zPirroZ3007", and spoofing your UUID to be any operators UUID, you are able to bypass the plugin.
 
 **How do I prevent players from being able to bypass UUIDSpoof - Fix?**
 
