@@ -2,7 +2,7 @@
 A lot of griefers abuses the Bungeecord subserver vulnerability called UUID spoofing. UUID spoofing makes you able to spoof your UUID to any player's UUID, which all player data is bound to. This means that you'll have their permissions, rank etc.
 
 **What is UUIDSpoof - Fix?**
-UUIDSpoof-Fix is a Spigot plugin developed by zPirroZ3007, which prevent player's from exploiting the vulnerability.
+UUIDSpoof-Fix is a Spigot plugin developed by zPirroZ3007, designed to prevent players from exploiting the UUID spoof vulnerability.
 
 A lot of server owners and administrators don't change the plugin configs. In this case, it's very important, to prevent players from bypassing UUIDSpoof - Fix.
 
@@ -18,7 +18,7 @@ public void onPlayerLogin(final PlayerLoginEvent event) {
  }
  ```
 
- As default in the exempt.yml file, "zPirroZ3007" is whitelisted.
+ As default in the exempt.yml (./plugins/UUIDSpoofFix/exempt.yml) file, "zPirroZ3007" is whitelisted.
  ```yaml
  # All players in this list will be exempted from UUID check
 whitelist:
@@ -28,4 +28,4 @@ whitelist:
 By spoofing your username to be "zPirroZ3007" and spoofing your UUID to be any operators UUID, you are able to bypass the plugin.
 
 **How do I prevent players from being able to bypass UUIDSpoof - Fix?**
-You simply remove "zPirroZ3007" from the whitelist in exempt.yml
+Simply remove "zPirroZ3007" from the whitelist in the YAML file exempt.yml.
