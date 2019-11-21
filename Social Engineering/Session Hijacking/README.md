@@ -1,6 +1,6 @@
 # Session Hijacking
 
-Session hijacking makes you able togain unauthorized access to an user's Minecraft account using only their username and latest session token.
+Session hijacking makes you able to gain unauthorized access to an user's Minecraft account using only their username and latest session token.
 
 **Overview**
 
@@ -8,7 +8,7 @@ When logging into your Minecraft account or launch the Minecraft client, the Moj
 
 When joining a premium server, you send your client's information to the Mojang authorization server, to make it confirm the session is valid. 
 
-It is not possible for the hacker to gain full access of the account using only the session token. They will only be able to play on servers on their account.
+It is not possible for the hacker to gain full access to  account using only the session token. They will only be able to play on servers on their account.
 
 **Gaining the token**
 
