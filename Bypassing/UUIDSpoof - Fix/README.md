@@ -33,6 +33,6 @@ whitelist:
 
 By spoofing your username to "zPirroZ3007", and spoofing your UUID to be any operators UUID, you are able to bypass the plugin.
 
-**How do I prevent players from being able to bypass UUIDSpoof - Fix?**
+**Prevention**
 
 Simply remove "zPirroZ3007" from the whitelist in the YAML file exempt.yml. An other fix would be hosting all subservers locally. This ofcourse is only possible, if the proxy (Bungeecord) server is hosted on the same network.
