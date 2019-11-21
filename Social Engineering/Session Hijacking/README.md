@@ -10,13 +10,17 @@ When joining a premium server, you send your client's information to the Mojang 
 
 It is not possible for the hacker to gain full access to  account using only the session token. They will only be able to play on servers on their account.
 
-**Gaining the token**
+<br>
+
+**Getting the token**
 
 There are different ways to get a user's session token. One way of doing it, is by making the target user run a Python script developed by WodX. Download it [here](https://github.com/WodxTV/Minecraft-Session-Token-Stealer). 
 
 In the \<1.9 versions of Minecraft, the latest session token can be found in the top of the latest.log file located at **%appdata%%\.minecraft\logs\latest.log**.
 
 All latest session tokens are cached in the **launcher_profiles.json** file located at **%appdata%%\.minecraft\launcher_profiles.json**.
+
+<br>
 
 **Prevention**
 
