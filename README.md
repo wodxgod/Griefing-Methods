@@ -1,6 +1,6 @@
 # Griefing methods by WodX
 
-In this documentation, you'll learn everything about how to grief Minecraft networks.
+How griefers get administrator privileges is still a myth for a lot of players, server owners and administrators. In this documentation, you'll learn everything about how to exploit and grief Minecraft networks and how it works.
 
 **Introduction**
 - **Brute forcing**
