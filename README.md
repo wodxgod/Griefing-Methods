@@ -4,19 +4,19 @@ In this documentation, you'll learn everything about how to grief Minecraft serv
 
 **Introduction**
 - **Brute forcing**
- - FTP
- - SSH
+    - FTP
+    - SSH
 - **Discovering**
- - IP Range Scanning
- - IP Sniffing
- - Port Scanning
- - SRV Records
+    - IP Range Scanning
+    - IP Sniffing
+    - Port Scanning
+    - SRV Records
 - **Exploitation**
- - **Remote File Inclusion**
-  - Holographic Displays
-  - Server Signs
- - UUID Spoofing
+    - **Remote File Inclusion**
+        - Holographic Displays
+        - Server Signs
+    - UUID Spoofing
 - **Social Engineering**
- - Poisoned Plugin
- - Poisoned Script
- - Session Hijacking
+    - Poisoned Plugin
+    - Poisoned Script
+    - Session Hijacking
