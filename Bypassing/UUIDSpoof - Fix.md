@@ -36,4 +36,4 @@ By spoofing your username to "zPirroZ3007", and spoofing your UUID to be any ope
 
 **Prevention**
 
-Simply remove "zPirroZ3007" from the whitelist in the YAML file exempt.yml. An other fix would be hosting all subservers locally. This ofcourse is only possible, if the proxy (Bungeecord) server is hosted on the same network.
+Simply remove "zPirroZ3007" from the whitelist in the YAML file exempt.yml. An other fix would be hosting all sub servers locally. This ofcourse is only possible, if the proxy (Bungeecord) server is hosted on the same network as the sub servers.
