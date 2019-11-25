@@ -12,7 +12,7 @@ In this documentation, you'll learn everything about how to grief Minecraft serv
     - Port Scanning
     - SRV Records
 - **Exploitation**
-    - **Remote File Inclusion**
+    - Remote File Inclusion
         - Holographic Displays
         - Server Signs
     - UUID Spoofing
