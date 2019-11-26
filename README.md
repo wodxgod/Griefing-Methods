@@ -2,7 +2,7 @@
 
 How griefers get administrator privileges is still a myth for a lot of players, server owners and administrators. In this documentation, you'll learn everything about how to exploit and grief Minecraft networks and how it works.
 
-I've decided to write this documentation with full explanation because I've seen a lot of script kiddies selling their "private" methods. In reality, they're not private at all.
+I've decided to write this documentation with a full explanation on how to do it, because I've seen a lot of script kiddies selling their "private" methods, where in reality, they're not private at all, and is not worth the money.
 
 **Introduction**
 - **Brute forcing**
