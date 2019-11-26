@@ -1,6 +1,6 @@
 # Session Hijacking
 
-Session hijacking makes you able to gain unauthorized access to an user's Minecraft account using only their username and latest session token.
+With session hijacking you can gain temporary unauthorized access to an user's Minecraft account using only their username and their latest session token.
 
 **Overview**
 
@@ -14,10 +14,10 @@ It is not possible for the hacker to gain full access to  account using only the
 
 There are different ways to get a user's session token. One way of doing it, is by making the target user run a Python script developed by WodX. Download it [here](https://github.com/WodxTV/Minecraft-Session-Token-Stealer). 
 
-In the \<1.9 versions of Minecraft, the latest session token can be found in the top of the latest.log file located at **%appdata%%\.minecraft\logs\latest.log**.
+In the 1.8.9 versions of Minecraft and below, the latest session token can be found in the top of the latest.log file located at `%appdata%\.minecraft\logs\latest.log`.
 
-All latest session tokens are cached in the **launcher_profiles.json** file located at **%appdata%%\.minecraft\launcher_profiles.json**.
+All latest session tokens are cached in the `launcher_profiles.json` file located at `%appdata%\.minecraft\launcher_profiles.json`.
 
 **Prevention**
 
-Never share any Minecraft logs or the launcher_profiles.json file, and never run any suspicious scripts and executables.
+Never share any Minecraft logs or the `launcher_profiles.json` file, and never run any suspicious scripts and executables.
