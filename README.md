@@ -9,7 +9,7 @@ I've decided to write this documentation with a full explanation on how to do it
     - [FTP](https://github.com/WodxTV/Griefing-Methods/blob/master/Brute%20forcing/FTP.md)
     - [SSH](https://github.com/WodxTV/Griefing-Methods/blob/master/Brute%20forcing/SSH.md)
 - **Bypassing**
-    - [Abusing Plugin Disablers](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/Abusing%20Plugin%20Disablers.md)
+    - [Plugin Disablers](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/Abusing%20Plugin%20Disablers.md)
     - [OnlyProxyJoin](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/OnlyProxyJoin.md)
     - [UUIDSpoof - Fix](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/UUIDSpoof%20-%20Fix.md)
 - **Discovering**
