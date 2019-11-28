@@ -13,12 +13,14 @@ Using the following Python code, you'll send a DNS query to the specified server
 def lookup(addr):
     host = addr
     port = None
+    
     if ':' in addr:
         x = addr.split(':')
         if len(x) > 2:
             raise ValueError(f'Invalid address: \'{addr}\'')
         host = x[0]
         port = int(x[1])
+    
     if not port:
         port = 25565
         try:
@@ -29,5 +31,8 @@ def lookup(addr):
                 port = int(answer.port)
         except Exception:
             pass
+    
     return (host, port)
+
+lookup(input('Server: '))
 ```
