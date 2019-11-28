@@ -1,6 +1,6 @@
 # Poisoned Plugin
 
-**Overview**
+**Explanation**
 
 A poisoned plugin (also called a backdoored or trojan plugin) is a plugin that can be used to gain yourself administrator privileges on a Minecraft server. The idea is to trick the server owner or administrator to install a malicious plugin on their server. How do you do that? This requires some social engineering.
 

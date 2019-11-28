@@ -21,7 +21,7 @@ I've decided to write this documentation with a full explanation on how to do it
     - [Port Scanning](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/Port%20Scanning.md)
     - [Reverse Domain Lookup]()
     - [Reverse IPv4 Lookup]()
-    - [SRV Records](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/SRV%20Records.md)
+    - [SRV Record](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/SRV%20Record.md)
     - [Subdomain Scanning]()
 - **Exploitation**
     - Remote File Inclusion
