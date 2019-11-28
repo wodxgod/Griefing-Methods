@@ -28,12 +28,11 @@ I've decided to write this documentation with a full explanation on how to do it
     - [UUID Spoofing](https://github.com/WodxTV/Griefing-Methods/blob/master/Exploitation/UUID%20Spoofing.md)
 - **Social Engineering**
     - [Poisoned Plugin](https://github.com/WodxTV/Griefing-Methods/blob/master/Social%20Engineering/Poisoned%20Plugin.md)
-    - [Poisoned Script](https://github.com/WodxTV/Griefing-Methods/blob/master/Social%20Engineering/Poisoned%20Script.md)
     - [Session Hijacking](https://github.com/WodxTV/Griefing-Methods/blob/master/Social%20Engineering/Session%20Hijacking.md)
 
 Of course there are other ways to gain access to a server. E.g. by hacking into the back-end server through different vulnerable protocol versions. These methods are more advanced and requires knowledge in hacking and exploitation.
 
-If I had to document every way possible to gain access to a server, this wouldn't be a griefing methods documentation anymore, rather a hacking and exploitation guide that could be used outside of Minecraft. These methods are aimed at Minecraft networks only.
+If I had to document every way possible to gain access to a server, this wouldn't be a griefing methods documentation anymore, rather a hacking and exploitation guide that could be used outside of the Minecraft community. These methods are aimed at Minecraft networks only.
 
 # Author
 - **WodX**
