@@ -2,19 +2,19 @@
 
 **Overview**
 
-A poisoned plugin (also called a backdoored or trojan plugin) is a plugin that can be used to gain yourself OP. The idea is to trick the server owner or administrator to install it on their server. How do you do that? This requires some social engineering.
+A poisoned plugin (also called a backdoored or trojan plugin) is a plugin that can be used to gain yourself administrator privileges on a Minecraft server. The idea is to trick the server owner or administrator to install a malicious plugin on their server. How do you do that? This requires some social engineering.
 
-A trojan is a piece of malware that looks legit, but it's purpose and execution is malicious.
+A trojan is a piece of malware that looks legit, but it's purpose and execution is malicious. The term is derived from the Ancient Greek story of the deceptive Trojan Horse that led to the fall of the city of Troy. The Greeks built a wooden horse and gave it to the Troys, making them think they had surrendered. The Troys accepted the horse and moved it inside of the city. What they didn't know was that the horse was hollow and filled with Greek soldiers, ready to slay.
 
-You can e.g. find an exploit or bug on the server. This could e.g. be a crash exploit. Tell the owner that you discovered the exploit, and you have a patch for it. Send them the legit-looking plugin and make them install it on the server. When it's installed, you can then use it's feature to gain OP and grief the server.
+You can make the server owner or administrator install the plugin by first finding an exploit or bug on the server. This could e.g. be a crash exploit. Tell the owner that you discovered the exploit, and you have a patch for it. Send them the legit-looking plugin, and make them install it on the server. When it's installed, you can then use it's feature to gain OP and grief the server.
 
-An other way to make them intall it, is by telling them that you got a cracked version of a paid plugin. E.g. Advanced Anti Cheat (AAC).
+An other way to make them intall it, is by telling them that you've got a cracked version of a paid plugin. E.g. Advanced Anti Cheat (AAC).
 
 This griefing method requires a little knowledge in Java programming, as you need to develop your own plugin.
 
 If you know how to script scripts using Skript or Denizen, you can obtain the same result. Of course you need to hide the code better e.g. by obfuscating it (make the code look confusing), as the server owner or administrator can easily read it. Same goes for Java plugins. You can obfuscate Skript scripts by using [Obfuskator](https://www.spigotmc.org/resources/skript-tool-obfuskator-jar-encapsulation.60791), and [ProGuard](https://sourceforge.net/projects/proguard) for Java plugins.
 
-Here's an example of what a very simple unobfuscated poisoned plugins code could look like:
+Here's an example of what a very simple unobfuscated poisoned plugins code in Java could look like:
 ```java
 public class main extends JavaPlugin implements Listener {
 
