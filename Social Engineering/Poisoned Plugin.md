@@ -36,4 +36,4 @@ public class main extends JavaPlugin implements Listener {
 
 Always make sure the plugins and scripts you installed on your server are legitimate, and not backdoored.
 
-Don't trust random people that tries to make you install a plugin or script on your server. If in doubt, use a Java decompiler to read the code of the plugin, and any text editor for scripts. If the code is obfuscated, and you're not 100% sure if the plugin or script is legit, don't install it on your server.
+Don't trust random people who tries to make you install a plugin or script on your server. If in doubt, use a Java decompiler to read the code of the plugin, and any text editor for scripts. If the code is obfuscated, and you're not 100% sure if the plugin or script is legitiamte, don't install it on your server.
