@@ -1,11 +1,12 @@
 <h1 align="center">Griefing Methods</h1>
 <p align="center">A documentation about how to hack Minecraft servers.</p>
 
+# Introduction
 How griefers get administrator privileges is still a myth for a lot of players, server owners and administrators. In this documentation, you'll learn everything about how to exploit and grief Minecraft networks and how it works.
 
 I've decided to write this documentation with a full explanation on how to do it, because I've seen a lot of script kiddies selling their "private" methods, where in reality, they're not private at all and nor their methods, and is therefore not worth the money.
 
-# Introduction
+# Overview
 - **Brute Forcing**
     - [FTP](https://github.com/WodxTV/Griefing-Methods/blob/master/Brute%20forcing/FTP.md)
     - [SSH](https://github.com/WodxTV/Griefing-Methods/blob/master/Brute%20forcing/SSH.md)
