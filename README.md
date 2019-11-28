@@ -36,6 +36,8 @@ Of course there are other ways to gain access to a server. E.g. by hacking into 
 
 If I had to document every way possible to gain access to a server, this wouldn't be a griefing methods documentation anymore, rather a hacking and exploitation guide that could be used outside of the Minecraft community. These methods are aimed at Minecraft networks only.
 
+Am I missing anything? Please report it [here](https://github.com/WodxTV/Griefing-Methods/issues/new)
+
 # Author
 - **WodX**
     - [Github](https://github.com/WodXTV)
