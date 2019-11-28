@@ -4,7 +4,7 @@ With session hijacking you can gain temporary unauthorized access to an user's M
 
 **Overview**
 
-When logging into your Minecraft account or launch the Minecraft client, the Mojang authorization server generates a temporary session token. Using a modified Minecraft client, you can gain access to the account using only their username and token. This is done by changing the client's session username and token.
+When logging in to your Minecraft account or launch the Minecraft client, the Mojang authorization server generates a temporary session token. Using a modified Minecraft client, you can gain access to the account using only their username and token. This is done by changing the client's session username and token.
 
 When joining a premium server, you send your client's information to the Mojang authorization server, to make it confirm the session is valid. 
 
@@ -18,8 +18,8 @@ There are different ways to get a user's session token. One way of doing it, is 
 
 In the 1.8.9 versions of Minecraft and below, the latest session token can be found in the top of the latest.log file located at `%appdata%\.minecraft\logs\latest.log`.
 
-All latest session tokens are cached in the `launcher_profiles.json` file located at `%appdata%\.minecraft\launcher_profiles.json`.
+All latest session tokens are cached in the `launcher_profiles.json` file located at `%appdata%\.minecraft\launcher_profiles.json` in any version of the game.
 
 **Prevention**
 
-Never share any Minecraft logs or the `launcher_profiles.json` file, and never run any suspicious scripts and executables.
+Never share any Minecraft logs or the `launcher_profiles.json` file, and never run any suspicious scripts and executables on your PC.
