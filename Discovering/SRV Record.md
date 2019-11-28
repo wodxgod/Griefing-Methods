@@ -11,7 +11,7 @@ Example: `_minecraft._tcp.example.com`.
 Using the ping command doesn't always return the correct IPv4 address due to different hosts hosted on the same domain, CDN systems and other services that protects the servers IPv4 address.
 > Related: [Domain to IPv4](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/Domain%20to%20IPv4.md)
 
-Using the following Python code, you'll send a DNS query to the specified server, and the script will return the correct IPv4 address and port for the server:
+Using the following Python code, you'll send a DNS query to the specified server, and the script will return the correct IPv4 address and port for the Minecraft server:
 ```python
 def lookup(addr):
     host = addr
