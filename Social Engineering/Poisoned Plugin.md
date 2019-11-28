@@ -4,7 +4,7 @@
 
 A poisoned plugin (also called a backdoored or trojan plugin) is a plugin that can be used to gain yourself administrator privileges on a Minecraft server. The idea is to trick the server owner or administrator to install a malicious plugin on their server. How do you do that? This requires some social engineering.
 
-A trojan is a piece of malware that looks legit, but it's purpose and execution is malicious. The term is derived from the Ancient Greek story of the deceptive Trojan Horse that led to the fall of the city of Troy. The Greeks built a wooden horse and gave it to the Troys, making them think they had surrendered. The Troys accepted the horse and moved it inside of the city. What they didn't know was that the horse was hollow and filled with Greek soldiers, ready to slay.
+A trojan is a piece of malware that looks legitimate, but it's purpose and execution is malicious. The term is derived from the Ancient Greek story of the deceptive Trojan Horse that led to the fall of the city of Troy. The Greeks built a wooden horse and gave it to the Troys, making them think they had surrendered. The Troys accepted the horse and moved it inside of the city. What they didn't know was that the horse was hollow and filled with Greek soldiers, ready to slay.
 
 You can make the server owner or administrator install the plugin by first finding an exploit or bug on the server. This could e.g. be a crash exploit. Tell the owner that you discovered the exploit, and you have a patch for it. Send them the legit-looking plugin, and make them install it on the server. When it's installed, you can then use it's feature to gain OP and grief the server.
 
