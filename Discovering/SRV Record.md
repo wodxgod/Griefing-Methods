@@ -13,6 +13,9 @@ Using the ping command doesn't always return the correct IPv4 address due to dif
 
 Using the following Python code, you'll send a DNS query to the specified server, and the script will return the correct IPv4 address and port for the Minecraft server:
 ```python
+import dns.resolver
+import socket
+
 def lookup(addr):
     host = addr
     port = None
@@ -32,7 +35,7 @@ def lookup(addr):
                 port = int(answer.port)
         except Exception:
             pass
-    return (host, port)
+    return (host, socket.gethostbyname(host), port)
 
-lookup(input('Server: '))
+print(lookup(input('Server: ')))
 ```
