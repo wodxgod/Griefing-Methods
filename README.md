@@ -1,5 +1,5 @@
 <h1 align="center">Griefing Methods</h1>
-<p align="center">(DONT DOWNLOAD, JUST CLICK AROUND HERE FOR A BETTER EXPERIENCE AND EASY READING)</p>
+<p align="center">__**(DONT DOWNLOAD, JUST CLICK AROUND HERE FOR A BETTER EXPERIENCE AND EASY READING)**__</p>
 <p align="center">A documentation about how to hack Minecraft servers by wodx.</p>
 
 # Introduction
