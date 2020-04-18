@@ -1,4 +1,4 @@
-<h1 align="center">Griefing Methods (DONT DOWNLOAD, JUST CLICK AROUND)</h1>
+<h1 align="center">Griefing Methods (DONT DOWNLOAD, JUST CLICK AROUND HERE)</h1>
 <p align="center">A documentation about how to hack Minecraft servers, by wodx.</p>
 
 # Introduction
@@ -8,21 +8,20 @@ I've decided to write this documentation with a full explanation on how to do it
 
 # Overview
 - **Brute Forcing**
-    - [FTP](https://github.com/WodxTV/Griefing-Methods/blob/master/Brute%20forcing/FTP.md)
-    - [SSH](https://github.com/WodxTV/Griefing-Methods/blob/master/Brute%20forcing/SSH.md)
+    - [FTP](https://github.com/WodxTV/Griefing-Methods/blob/master/Brute%20forcing/FTP.md) (work in progress)
+    - [SSH](https://github.com/WodxTV/Griefing-Methods/blob/master/Brute%20forcing/SSH.md) (work in progress)
 - **Bypassing**
-    - [Abusing Plugin Disablers](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/Abusing%20Plugin%20Disablers.md)
-    - [OnlyProxyJoin](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/OnlyProxyJoin.md)
+    - [Abusing Plugin Managers](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/Abusing%20Plugin%20Disablers.md)
+    - [OnlyProxyJoin](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/OnlyProxyJoin.md) (work in progress)
     - [UUIDSpoof - Fix](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/UUIDSpoof%20-%20Fix.md)
 - **Discovering**
-    - [Domain to IPv4](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/Domain%20to%20IP-Address.md)
-    - [IP Range Scanning](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/IP%20Range%20Scanning.md)
-    - [IP Sniffing](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/IP%20Sniffing.md)
+    - [Domain to IP](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/Domain%20to%20IP-Address.md)
+    - [IP Range Scanning](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/IP%20Range%20Scanning.md) (work in progress)
     - [Port Scanning](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/Port%20Scanning.md)
-    - [Reverse Domain Lookup]()
-    - [Reverse IPv4 Lookup]()
-    - [SRV Record](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/SRV%20Record.md)
-    - [Subdomain Scanning]()
+    - [Reverse Domain Lookup]() (work in progress)
+    - [Reverse IP Lookup]() (work in progress)
+    - [SRV Record](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/SRV%20Record.md) (work in progress)
+    - [Subdomain Scanning]() (work in progress)
 - **Exploitation**
     - Database Dumping
         - [LiteBans](https://github.com/WodxTV/Griefing-Methods/blob/master/Exploitation/Database%20Dumping/LiteBans.md)

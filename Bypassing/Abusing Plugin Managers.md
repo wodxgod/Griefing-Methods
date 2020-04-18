@@ -1,0 +1,19 @@
+# Abusing Plugin Managers
+
+**Overview**
+
+On some servers, you may experince a plugin that blocks some features you might need for griefing a server. If the server has a plugin management plugin installed, you're good.
+
+A plugin management plugin is a plugin made to easily manage (install, uninstall, update, enable and disable) other server plugins withouth having to reload or restart the server completely.
+
+For example, the plugin Plugman is a plugin management plugin and has a plugin disable feature, which can be exploited as an administrator or operator.
+
+**Exploitation**
+
+Executing the command `/plugman disable <plugin name>` on a server with Plugman installed, will disable the specified plugin on the server.
+
+If you are unsure what the name of the plugin is, you can always use the command `/plugins` to see the list of installed server plugins on the server.
+
+**Prevention**
+
+No public patch have been made for blocking this issue. You either have to make your own plugin or script that blocks the command, or simply remove plugin management plugin from your server.
