@@ -1,4 +1,4 @@
-# UUIDSpoof - Fix Bypass
+# UUIDSpoof - Fix Plugin Bypass
 
 **Overview**
 

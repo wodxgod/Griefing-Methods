@@ -10,7 +10,7 @@ I've decided to write this documentation with a full explanation on how to do it
 # Overview
 1. Methods
     - **Bypassing**
-        - [AuthMeBridge](https://github.com/wodxgod/Griefing-Methods/blob/master/Bypassing/AuthMeBridge.md)
+        - [AuthMeBridge](https://github.com/wodxgod/Griefing-Methods/blob/master/Bypassing/AuthMeBridge.md) (work in progress)
         - [Exploiting Plugin Managers](https://github.com/wodxgod/Griefing-Methods/blob/master/Bypassing/Exploiting%20Plugin%20Managers.md)
         - [OnlyProxyJoin](https://github.com/wodxgod/Griefing-Methods/blob/master/Bypassing/OnlyProxyJoin.md) (work in progress)
         - [UUIDSpoof - Fix](https://github.com/wodxgod/Griefing-Methods/blob/master/Bypassing/UUIDSpoof%20-%20Fix.md)

@@ -1,4 +1,4 @@
-# OnlyProxyJoin Bypass
+# OnlyProxyJoin Plugin Bypass
 
 **Overview**
 
