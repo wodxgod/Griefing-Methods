@@ -2,9 +2,9 @@
 <p align="center">A documentation about how to hack Minecraft servers, by wodx.</p>
 
 # Introduction
-How griefers get administrator privileges is still a myth for a lot of players, server owners and administrators. In this documentation, you'll learn everything about how to exploit and grief Minecraft networks and how it works.
+How griefers get administrator privileges is still a myth for a lot of players, server owners and administrators. In this documentation, you'll learn everything about how to exploit and grief Minecraft networks and how it all works in details.
 
-I've decided to write this documentation with a full explanation on how to do it, because I've seen a lot of script kiddies selling their "private" methods, where in reality, they're not private at all and nor their methods, and is therefore not worth the money.
+I've decided to write this documentation with a full explanation on how to do it, because I've seen a lot of script kiddies selling their "private" methods, where in reality, they're not private at all, nor their own methods.
 
 # Overview
 - **Bypassing**
@@ -31,9 +31,7 @@ I've decided to write this documentation with a full explanation on how to do it
     - [Poisoned Plugin](https://github.com/WodxTV/Griefing-Methods/blob/master/Social%20Engineering/Poisoned%20Plugin.md)
     - [Session Hijacking](https://github.com/WodxTV/Griefing-Methods/blob/master/Social%20Engineering/Session%20Hijacking.md)
 
-Of course there are other ways to gain access to a server. E.g. by hacking into the back-end server through different vulnerable protocol versions. These methods are more advanced and requires knowledge in hacking and exploitation.
-
-If I had to document every way possible to gain access to a server, this wouldn't be a griefing methods documentation anymore, rather a hacking and exploitation guide that could be used outside of the Minecraft community. These methods are aimed at Minecraft networks only.
+There are other ways to gain access to a server. E.g. by bruteforcing or hacking into the back-end server through different vulnerabilities. These methods are more advanced and requires knowledge in hacking and exploitation, and will therefore not be added to this documentation, as this documentation is aimed at Minecraft servers only.
 
 Am I missing anything? Please report it [here](https://github.com/WodxTV/Griefing-Methods/issues/new)
 
