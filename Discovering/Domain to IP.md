@@ -23,4 +23,4 @@ $
 ```
 
 In the square brackets you can see the servers IP-address.
-> Read about how to bypass IP protection at: [IP Sniffing](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/IP%20Sniffing.md) and [SRV Records](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/SRV%20Records.md)
+> Read about how to bypass IP protection at: [SRV Records](https://github.com/wodxgod/Griefing-Methods/blob/master/Discovering/SRV%20Records.md)

@@ -3,7 +3,7 @@
 **Overview**
 
 A lot of griefers abuses the Bungeecord vulnerability called UUID spoofing. UUID spoofing makes you able to spoof your UUID to any player's UUID, which all player data is bound to. This means that you will have their permissions, rank etc.
-> Read more about UUID spoofing at: [UUID Spoofing](https://github.com/WodxTV/Griefing-Methods/tree/master/Exploitation/UUID%20Spoofing)
+> Read more about UUID spoofing at: [UUID Spoofing](https://github.com/wodxgod/Griefing-Methods/tree/master/Exploitation/UUID%20Spoofing)
 
 UUIDSpoof-Fix is a Spigot plugin developed by zPirroZ3007, designed to prevent players from exploiting the UUID spoof vulnerability.
 

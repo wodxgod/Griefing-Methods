@@ -14,7 +14,7 @@ This method can be used to gain access to an owner/administrator's account and O
 
 **Getting the token**
 
-There are different ways to get a user's session token. One way of doing it, is by making the target user run a Python script developed by WodX. Download it [here](https://github.com/WodxTV/Minecraft-Session-Token-Stealer). 
+There are different ways to get a user's session token. One way of doing it, is by making the target user run a Python script developed by me (wodx). Download it [here](https://github.com/wodxgod/Minecraft-Session-Token-Stealer). 
 
 In the 1.8.9 versions of Minecraft and below, the latest session token can be found in the top of the latest.log file located at `%appdata%\.minecraft\logs\latest.log`.
 
