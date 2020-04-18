@@ -1,8 +1,8 @@
 # Domain to IP-Address
 
-In some cases you need the servers IP-address, but you only have it's domain e.g. `example.com`. There are many different ways to retrieve the servers IPv4 address from it's domain.
+In some cases you need the servers IP-address, but you only have it's domain e.g. `example.com`. There are many different ways to retrieve the servers IP-address from its domain.
 
-One way of getting the IP-address by it's domain, is by using the default command line command `ping`. Using the command `ping <domain>` will return the server's IPv4 address.
+One way of getting the IP-address by its domain, is by using the default shell command `ping`. Using the command `ping <domain>` will return the servers IP-address.
 
 Example of the output from the ping command using the domain `example.com`.
 ```
