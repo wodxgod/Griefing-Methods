@@ -1,4 +1,4 @@
-<h1 align="center">Griefing Methods</h1>
+<h1 align="center">Server Discovery And Griefing Methods</h1>
 <b><p align="center">(DONT DOWNLOAD, JUST CLICK AROUND HERE FOR A BETTER EXPERIENCE AND EASY READING)</p></b>
 <p align="center">A documentation about how to hack Minecraft servers, by wodx.</p>
 
@@ -8,7 +8,7 @@ How griefers get administrator privileges is still a myth for a lot of players, 
 I've decided to write this documentation with a full explanation on how to do it, because I've seen a lot of script kiddies selling their "private" methods, where in reality, they're not private at all, nor their own methods.
 
 # Overview
-1. Griefing and Server Discovery Methods Explained
+1. Methods
     - **Bypassing**
         - [Exploiting Plugin Managers](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/Exploiting%20Plugin%20Managers.md)
         - [OnlyProxyJoin](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/OnlyProxyJoin.md) (work in progress)
@@ -32,7 +32,7 @@ I've decided to write this documentation with a full explanation on how to do it
     - **Social Engineering**
         - [Poisoned Plugin](https://github.com/WodxTV/Griefing-Methods/blob/master/Social%20Engineering/Poisoned%20Plugin.md)
         - [Session Hijacking](https://github.com/WodxTV/Griefing-Methods/blob/master/Social%20Engineering/Session%20Hijacking.md)
-2. Step by step
+2. Griefing a Server
     - [Finding a Vulnerable Server]()
     - [Getting OP]()
     - [Dumping the Servers Database]()
