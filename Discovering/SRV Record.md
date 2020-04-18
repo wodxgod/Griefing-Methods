@@ -8,7 +8,7 @@ A typical SRV record has the following format: `_<service>._<transport protocol>
 Example: `_minecraft._tcp.example.com`.
 
 Using the ping command doesn't always return the correct IP-address of the server due to different hosts hosted on the same domain, CDN systems and other services that protects the servers IP-address.
-> Related: [Domain to IP](https://github.com/wodxgod/Griefing-Methods/blob/master/Discovering/Domain%20to%20IP.md)
+> Related: [Domain to IP](Discovering/Domain%20to%20IP.md)
 
 Using the following Python code will send a DNS query to the specified server and return the IP-address and port for the Minecraft server hosted on that domain:
 ```python

@@ -23,4 +23,4 @@ $
 ```
 
 In the square brackets you can see the servers IP-address.
-> Read about how to bypass IP protection at: [SRV Records](https://github.com/wodxgod/Griefing-Methods/blob/master/Discovering/SRV%20Records.md)
+> Read about how to bypass IP protection at: [SRV Records](Discovering/SRV%20Records.md)
