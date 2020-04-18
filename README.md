@@ -7,9 +7,6 @@ How griefers get administrator privileges is still a myth for a lot of players, 
 I've decided to write this documentation with a full explanation on how to do it, because I've seen a lot of script kiddies selling their "private" methods, where in reality, they're not private at all and nor their methods, and is therefore not worth the money.
 
 # Overview
-- **Brute Forcing**
-    - [FTP](https://github.com/WodxTV/Griefing-Methods/blob/master/Brute%20forcing/FTP.md) (work in progress)
-    - [SSH](https://github.com/WodxTV/Griefing-Methods/blob/master/Brute%20forcing/SSH.md) (work in progress)
 - **Bypassing**
     - [Exploiting Plugin Managers](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/Exploiting%20Plugin%20Managers.md)
     - [OnlyProxyJoin](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/OnlyProxyJoin.md) (work in progress)
