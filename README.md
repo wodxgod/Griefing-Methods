@@ -18,7 +18,7 @@ I've decided to write this documentation with a full explanation on how to do it
         - [Domain to IP](https://github.com/wodxgod/Griefing-Methods/blob/master/Discovering/Domain%20to%20IP.md)
         - [Dorking](https://github.com/wodxgod/Griefing-Methods/blob/master/Discovering/Dorking.md) (work in progress)
         - [IP Range Scanning](https://github.com/wodxgod/Griefing-Methods/blob/master/Discovering/IP%20Range%20Scanning.md) (work in progress)
-        - [Port Scanning](https://github.com/wodxgod/Griefing-Methods/blob/master/Discovering/Port%20Scanning.md)
+        - [Port Scanning](https://github.com/wodxgod/Griefing-Methods/blob/master/Discovering/Port%20Scanning.md) (work in progress)
         - [Reverse Domain Lookup](https://github.com/wodxgod/Griefing-Methods/blob/master/Discovering/Reverse%20Domain%20Lookup.md) (work in progress)
         - [Reverse IP Lookup](https://github.com/wodxgod/Griefing-Methods/blob/master/Discovering/Reverse%20IP%20Lookup.md) (work in progress)
         - [SRV Record](https://github.com/wodxgod/Griefing-Methods/blob/master/Discovering/SRV%20Record.md)
