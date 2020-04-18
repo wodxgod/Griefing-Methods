@@ -24,6 +24,8 @@ I've decided to write this documentation with a full explanation on how to do it
     - [SRV Record](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/SRV%20Record.md)
     - [Subdomain Scanning]()
 - **Exploitation**
+    - Database Dumping
+        - [LiterBans](https://github.com/WodxTV/Griefing-Methods/blob/master/Exploitation/Database%20Dumping/LiteBans.md)
     - Remote File Inclusion
         - [Holographic Displays](https://github.com/WodxTV/Griefing-Methods/blob/master/Exploitation/Remote%20File%20Inclusion/Holographic%20Displays.md)
         - [ServerSigns](https://github.com/WodxTV/Griefing-Methods/blob/master/Exploitation/Remote%20File%20Inclusion/ServerSigns.md)
