@@ -2,12 +2,12 @@
 <b><p align="center">(DONT DOWNLOAD, JUST CLICK AND BROWSE ON THIS SITE FOR A BETTER EXPERIENCE)</p></b>
 <p align="center">A documentation about how to hack Minecraft servers by wodx.</p>
 
-# Introduction
+### Introduction
 How griefers get administrator privileges is still a myth for a lot of players, server owners and administrators. In this documentation, you'll learn everything about how to exploit and grief Minecraft networks and how it all works in details.
 
 I've decided to write this documentation with a full explanation on how to do it, because I've seen a lot of script kiddies selling their "private" methods, where in reality, they're not private at all, nor their own methods.
 
-# Overview
+### Overview
 1. Methods
     - **Bypassing**
         - [AuthMeBridge](https://github.com/wodxgod/Griefing-Methods/blob/master/Bypassing/AuthMeBridge.md) (work in progress)
@@ -44,7 +44,7 @@ There are other ways to gain access to a server. E.g. by bruteforcing or hacking
 
 Am I missing anything? Please report it [here](https://github.com/wodxgod/Griefing-Methods/issues/new)
 
-# Author
+### Author
 - **wodx**
     - [Twitter](https://twitter.com/wodxgod)
     - [YouTube](https://youtube.com/wodxgod)
