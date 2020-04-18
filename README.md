@@ -10,29 +10,29 @@ I've decided to write this documentation with a full explanation on how to do it
 ### Overview
 1. Methods
     - **Bypassing**
-        - [AuthMeBridge](https://github.com/wodxgod/Griefing-Methods/blob/master/Bypassing/AuthMeBridge.md) (work in progress)
-        - [Exploiting Plugin Managers](https://github.com/wodxgod/Griefing-Methods/blob/master/Bypassing/Exploiting%20Plugin%20Managers.md)
-        - [OnlyProxyJoin](https://github.com/wodxgod/Griefing-Methods/blob/master/Bypassing/OnlyProxyJoin.md) (work in progress)
-        - [UUIDSpoof - Fix](https://github.com/wodxgod/Griefing-Methods/blob/master/Bypassing/UUIDSpoof%20-%20Fix.md)
+        - [AuthMeBridge](Bypassing/AuthMeBridge.md) (work in progress)
+        - [Exploiting Plugin Managers](Bypassing/Exploiting%20Plugin%20Managers.md)
+        - [OnlyProxyJoin](Bypassing/OnlyProxyJoin.md) (work in progress)
+        - [UUIDSpoof - Fix](Bypassing/UUIDSpoof%20-%20Fix.md)
     - **Discovering**
-        - [Domain to IP](https://github.com/wodxgod/Griefing-Methods/blob/master/Discovering/Domain%20to%20IP.md)
-        - [Dorking](https://github.com/wodxgod/Griefing-Methods/blob/master/Discovering/Dorking.md) (work in progress)
-        - [IP Range Scanning](https://github.com/wodxgod/Griefing-Methods/blob/master/Discovering/IP%20Range%20Scanning.md) (work in progress)
-        - [Port Scanning](https://github.com/wodxgod/Griefing-Methods/blob/master/Discovering/Port%20Scanning.md) (work in progress)
-        - [Reverse Domain Lookup](https://github.com/wodxgod/Griefing-Methods/blob/master/Discovering/Reverse%20Domain%20Lookup.md) (work in progress)
-        - [Reverse IP Lookup](https://github.com/wodxgod/Griefing-Methods/blob/master/Discovering/Reverse%20IP%20Lookup.md) (work in progress)
-        - [SRV Record](https://github.com/wodxgod/Griefing-Methods/blob/master/Discovering/SRV%20Record.md)
-        - [Subdomain Scanning](https://github.com/wodxgod/Griefing-Methods/blob/master/Discovering/Subdomain%20Scanning.md) (work in progress)
+        - [Domain to IP](Discovering/Domain%20to%20IP.md)
+        - [Dorking](Discovering/Dorking.md) (work in progress)
+        - [IP Range Scanning](Discovering/IP%20Range%20Scanning.md) (work in progress)
+        - [Port Scanning](Discovering/Port%20Scanning.md) (work in progress)
+        - [Reverse Domain Lookup](Discovering/Reverse%20Domain%20Lookup.md) (work in progress)
+        - [Reverse IP Lookup](Discovering/Reverse%20IP%20Lookup.md) (work in progress)
+        - [SRV Record](Discovering/SRV%20Record.md)
+        - [Subdomain Scanning](Discovering/Subdomain%20Scanning.md) (work in progress)
     - **Exploitation**
         - Database Dumping
-            - [LiteBans](https://github.com/wodxgod/Griefing-Methods/blob/master/Exploitation/Database%20Dumping/LiteBans.md)
+            - [LiteBans](Exploitation/Database%20Dumping/LiteBans.md)
         - Directory Traversal
-            - [Holographic Displays](https://github.com/wodxgod/Griefing-Methods/blob/master/Exploitation/Directory%20Traversal/Holographic%20Displays.md)
-            - [ServerSigns](https://github.com/wodxgod/Griefing-Methods/blob/master/Exploitation/Directory%20Traversal/ServerSigns.md)
-        - [UUID Spoofing](https://github.com/wodxgod/Griefing-Methods/blob/master/Exploitation/UUID%20Spoofing.md)
+            - [Holographic Displays](Exploitation/Directory%20Traversal/Holographic%20Displays.md)
+            - [ServerSigns](Exploitation/Directory%20Traversal/ServerSigns.md)
+        - [UUID Spoofing](Exploitation/UUID%20Spoofing.md)
     - **Social Engineering**
-        - [Poisoned Plugin](https://github.com/wodxgod/Griefing-Methods/blob/master/Social%20Engineering/Poisoned%20Plugin.md)
-        - [Session Hijacking](https://github.com/wodxgod/Griefing-Methods/blob/master/Social%20Engineering/Session%20Hijacking.md)
+        - [Poisoned Plugin](Social%20Engineering/Poisoned%20Plugin.md)
+        - [Session Hijacking](Social%20Engineering/Session%20Hijacking.md)
 2. Griefing Process Example
     - [Finding a Vulnerable Server]()
     - [Getting OP]()
