@@ -1,8 +1,8 @@
-# Domain to IPv4 Address
+# Domain to IP-Address
 
 In some cases you need the servers IP-address, but you only have it's domain e.g. `example.com`. There are many different ways to retrieve the servers IPv4 address from it's domain.
 
-One way of getting the IPv4 address by it's domain, is by using the default command line command `ping`. Using the command `ping <domain>` will return the server's IPv4 address.
+One way of getting the IP-address by it's domain, is by using the default command line command `ping`. Using the command `ping <domain>` will return the server's IPv4 address.
 
 Example of the output from the ping command using the domain `example.com`.
 ```
@@ -22,5 +22,5 @@ Approximate round trip times in milli-seconds:
 $
 ```
 
-In the square brackets you can see the servers IPv4 address.
+In the square brackets you can see the servers IP-address.
 > Read about how to bypass IP protection at: [IP Sniffing](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/IP%20Sniffing.md) and [SRV Records](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/SRV%20Records.md)
