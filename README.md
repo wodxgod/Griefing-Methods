@@ -37,7 +37,7 @@ I've decided to write this documentation with a full explanation on how to do it
     - [Getting OP]()
     - [Dumping the Servers Database]()
     - [Getting RCON Access through ServerSigns]()
-    - [Griefing the Map]()
+    - [Griefing the Server]()
 
 There are other ways to gain access to a server. E.g. by bruteforcing or hacking into the back-end server through different vulnerabilities. These methods are more advanced and requires knowledge in hacking and exploitation, and will therefore not be added to this documentation, as this documentation is aimed at Minecraft servers only.
 
