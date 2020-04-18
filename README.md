@@ -41,12 +41,7 @@ If I had to document every way possible to gain access to a server, this wouldn'
 Am I missing anything? Please report it [here](https://github.com/WodxTV/Griefing-Methods/issues/new)
 
 # Author
-- **WodX**
-    - [Github](https://github.com/WodXTV)
+- **wodx**
     - [Twitter](https://twitter.com/wodxgod)
     - [YouTube](https://youtube.com/wodxgod)
-    - [Discord](https://profiles.pw/profile/638659048018935823)
-    - [PayPal.me](https://www.paypal.com/paypalme2/wodx)
-
-# Donate
-You can donate to my PayPal at https://www.paypal.me/wodx <3
+    - [PayPal](https://www.paypal.com/paypalme2/wodx)
