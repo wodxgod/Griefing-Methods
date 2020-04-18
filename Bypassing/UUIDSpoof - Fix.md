@@ -23,7 +23,7 @@ public void onPlayerLogin(final PlayerLoginEvent event) {
  }
  ```
 
- As default in the `exempt.yml` file, located in `./plugins/UUIDSpoofFix/exempt.yml`, "zPirroZ3007" is whitelisted.
+By default, in the `exempt.yml` file, located in `./plugins/UUIDSpoofFix/exempt.yml`, the username "zPirroZ3007" is whitelisted.
  ```yaml
  # All players in this list will be exempted from UUID check
 whitelist:
