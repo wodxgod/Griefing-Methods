@@ -1,5 +1,6 @@
-<h1 align="center">Griefing Methods (DONT DOWNLOAD, JUST CLICK AROUND HERE)</h1>
-<p align="center">A documentation about how to hack Minecraft servers, by wodx.</p>
+<h1 align="center">Griefing Methods</h1>
+<p align="center">(DONT DOWNLOAD, JUST CLICK AROUND HERE FOR A BETTER EXPERIENCE AND EASY READING)</p>
+<p align="center">A documentation about how to hack Minecraft servers by wodx.</p>
 
 # Introduction
 How griefers get administrator privileges is still a myth for a lot of players, server owners and administrators. In this documentation, you'll learn everything about how to exploit and grief Minecraft networks and how it all works in details.
