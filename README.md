@@ -32,7 +32,7 @@ I've decided to write this documentation with a full explanation on how to do it
     - **Social Engineering**
         - [Poisoned Plugin](https://github.com/WodxTV/Griefing-Methods/blob/master/Social%20Engineering/Poisoned%20Plugin.md)
         - [Session Hijacking](https://github.com/WodxTV/Griefing-Methods/blob/master/Social%20Engineering/Session%20Hijacking.md)
-2. Griefing a Server
+2. Step by step
     - [Finding a Vulnerable Server]()
     - [Getting OP]()
     - [Dumping the Servers Database]()

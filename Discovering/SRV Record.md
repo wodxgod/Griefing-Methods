@@ -2,16 +2,16 @@
 
 **Overview**
 
-SRV Record (Service Record) is an internet protocol used to among other retrieve the host address and port for a specific service through DNS (Domain Name System). In some cases, it can be very efficient to use as a griefing method.
+SRV Record (Service Record) is an internet protocol used to among other retrieve the host address and port for a specific service through DNS (Domain Name System). In some cases, it can be very efficient to use as a server discovery method.
 
 A typical SRV record has the following format: `_<service>._<transport protocol>.<domain>`.
 
 Example: `_minecraft._tcp.example.com`.
 
-Using the ping command doesn't always return the correct IPv4 address due to different hosts hosted on the same domain, CDN systems and other services that protects the servers IPv4 address.
-> Related: [Domain to IPv4](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/Domain%20to%20IPv4.md)
+Using the ping command doesn't always return the correct IP-address of the server due to different hosts hosted on the same domain, CDN systems and other services that protects the servers IP-address.
+> Related: [Domain to IP](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/Domain%20to%20IP.md)
 
-Using the following Python code, you'll send a DNS query to the specified server, and the script will return the correct IPv4 address and port for the Minecraft server:
+Using the following Python code will send a DNS query to the specified server and return the IP-address and port for the Minecraft server hosted on that domain:
 ```python
 import dns.resolver
 import socket
