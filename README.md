@@ -1,4 +1,4 @@
-<h1 align="center">Server Discovery And Griefing Methods</h1>
+<h1 align="center">Minecraft Server Discovery And Griefing Methods</h1>
 <b><p align="center">(DONT DOWNLOAD, JUST CLICK AROUND HERE FOR A BETTER EXPERIENCE AND EASY READING)</p></b>
 <p align="center">A documentation about how to hack Minecraft servers by wodx.</p>
 
