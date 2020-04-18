@@ -16,7 +16,7 @@ I've decided to write this documentation with a full explanation on how to do it
     - [Dorking](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/Dorking.md)
     - [IP Range Scanning](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/IP%20Range%20Scanning.md) (work in progress)
     - [Port Scanning](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/Port%20Scanning.md)
-    - [Reverse Domain Lookup]() (work in progress)
+    - [Reverse Domain Lookup](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/Reverse%20Domain%20Lookup.md) (work in progress)
     - [Reverse IP Lookup](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/Reverse%20IP%20Lookup.md) (work in progress)
     - [SRV Record](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/SRV%20Record.md) (work in progress)
     - [Subdomain Scanning](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/Subdomain%20Scanning.md) (work in progress)
