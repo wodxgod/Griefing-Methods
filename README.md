@@ -8,7 +8,7 @@ How griefers get administrator privileges is still a myth for a lot of players, 
 I've decided to write this documentation with a full explanation on how to do it, because I've seen a lot of script kiddies selling their "private" methods, where in reality, they're not private at all, nor their own methods.
 
 # Overview
-- # Griefing Methods Explained
+- Griefing Methods Explained
     - **Bypassing**
         - [Exploiting Plugin Managers](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/Exploiting%20Plugin%20Managers.md)
         - [OnlyProxyJoin](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/OnlyProxyJoin.md) (work in progress)
@@ -32,7 +32,7 @@ I've decided to write this documentation with a full explanation on how to do it
     - **Social Engineering**
         - [Poisoned Plugin](https://github.com/WodxTV/Griefing-Methods/blob/master/Social%20Engineering/Poisoned%20Plugin.md)
         - [Session Hijacking](https://github.com/WodxTV/Griefing-Methods/blob/master/Social%20Engineering/Session%20Hijacking.md)
-- # Griefing a server
+- Griefing a server
     1. [Finding a Vulnerable Server]()
     2. [Getting OP]()
     3. [Dumping the Servers Database]()
