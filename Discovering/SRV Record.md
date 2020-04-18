@@ -1,7 +1,6 @@
 # SRV Record
 
-**Overview**
-
+### Overview
 SRV Record (Service Record) is an internet protocol used to among other retrieve the host address and port for a specific service through DNS (Domain Name System). In some cases, it can be very efficient to use as a server discovery method.
 
 A typical SRV record has the following format: `_<service>._<transport protocol>.<domain>`.
