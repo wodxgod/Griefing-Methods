@@ -8,7 +8,7 @@ How griefers get administrator privileges is still a myth for a lot of players, 
 I've decided to write this documentation with a full explanation on how to do it, because I've seen a lot of script kiddies selling their "private" methods, where in reality, they're not private at all, nor their own methods.
 
 # Overview
-- Griefing Methods Explained
+1. Griefing Methods Explained
     - **Bypassing**
         - [Exploiting Plugin Managers](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/Exploiting%20Plugin%20Managers.md)
         - [OnlyProxyJoin](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/OnlyProxyJoin.md) (work in progress)
@@ -32,12 +32,12 @@ I've decided to write this documentation with a full explanation on how to do it
     - **Social Engineering**
         - [Poisoned Plugin](https://github.com/WodxTV/Griefing-Methods/blob/master/Social%20Engineering/Poisoned%20Plugin.md)
         - [Session Hijacking](https://github.com/WodxTV/Griefing-Methods/blob/master/Social%20Engineering/Session%20Hijacking.md)
-- Griefing a server
-    1. [Finding a Vulnerable Server]()
-    2. [Getting OP]()
-    3. [Dumping the Servers Database]()
-    4. [Getting RCON Access through ServerSigns]()
-    5. [Griefing the Map]()
+2. Griefing a server
+    - [Finding a Vulnerable Server]()
+    - [Getting OP]()
+    - [Dumping the Servers Database]()
+    - [Getting RCON Access through ServerSigns]()
+    - [Griefing the Map]()
 
 There are other ways to gain access to a server. E.g. by bruteforcing or hacking into the back-end server through different vulnerabilities. These methods are more advanced and requires knowledge in hacking and exploitation, and will therefore not be added to this documentation, as this documentation is aimed at Minecraft servers only.
 
