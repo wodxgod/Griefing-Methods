@@ -12,13 +12,14 @@ I've decided to write this documentation with a full explanation on how to do it
     - [OnlyProxyJoin](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/OnlyProxyJoin.md) (work in progress)
     - [UUIDSpoof - Fix](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/UUIDSpoof%20-%20Fix.md)
 - **Discovering**
-    - [Domain to IP](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/Domain%20to%20IP-Address.md)
+    - [Domain to IP](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/Domain%20to%20IP.md)
+    - [Dorking](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/Dorking.md)
     - [IP Range Scanning](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/IP%20Range%20Scanning.md) (work in progress)
     - [Port Scanning](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/Port%20Scanning.md)
     - [Reverse Domain Lookup]() (work in progress)
-    - [Reverse IP Lookup]() (work in progress)
+    - [Reverse IP Lookup](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/Reverse%20IP%20Lookup.md) (work in progress)
     - [SRV Record](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/SRV%20Record.md) (work in progress)
-    - [Subdomain Scanning]() (work in progress)
+    - [Subdomain Scanning](https://github.com/WodxTV/Griefing-Methods/blob/master/Discovering/Subdomain%20Scanning.md) (work in progress)
 - **Exploitation**
     - Database Dumping
         - [LiteBans](https://github.com/WodxTV/Griefing-Methods/blob/master/Exploitation/Database%20Dumping/LiteBans.md)

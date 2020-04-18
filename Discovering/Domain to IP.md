@@ -1,4 +1,4 @@
-# Domain to IP-Address
+# Domain to IP
 
 In some cases you need the servers IP-address, but you only have it's domain e.g. `example.com`. There are many different ways to retrieve the servers IP-address from its domain.
 
