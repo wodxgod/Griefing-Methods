@@ -10,7 +10,7 @@ You can make the server owner or administrator install the plugin by first findi
 
 An other way to make them intall it, is by telling them that you've got a cracked version of a paid plugin. E.g. Advanced Anti Cheat (AAC).
 
-This griefing method requires a little knowledge in Java programming, as you need to develop your own plugin.
+This griefing method requires a little bit of knowledge in Java programming, as you need to develop your own plugin.
 
 If you know how to script scripts using Skript or Denizen, you can obtain the same result. Of course you need to hide the code better e.g. by obfuscating it (make the code look confusing), as the server owner or administrator can easily read it. Same goes for Java plugins. You can obfuscate Skript scripts by using [Obfuskator](https://www.spigotmc.org/resources/skript-tool-obfuskator-jar-encapsulation.60791), and [ProGuard](https://sourceforge.net/projects/proguard) for Java plugins.
 
