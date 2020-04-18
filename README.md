@@ -11,7 +11,7 @@ I've decided to write this documentation with a full explanation on how to do it
     - [FTP](https://github.com/WodxTV/Griefing-Methods/blob/master/Brute%20forcing/FTP.md) (work in progress)
     - [SSH](https://github.com/WodxTV/Griefing-Methods/blob/master/Brute%20forcing/SSH.md) (work in progress)
 - **Bypassing**
-    - [Abusing Plugin Managers](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/Abusing%20Plugin%20Managers.md)
+    - [Exploiting Plugin Managers](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/Exploiting%20Plugin%20Managers.md)
     - [OnlyProxyJoin](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/OnlyProxyJoin.md) (work in progress)
     - [UUIDSpoof - Fix](https://github.com/WodxTV/Griefing-Methods/blob/master/Bypassing/UUIDSpoof%20-%20Fix.md)
 - **Discovering**
