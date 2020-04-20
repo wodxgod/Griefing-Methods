@@ -1,5 +1,5 @@
 <h1 align="center">Minecraft Server Discovery And Griefing Methods</h1>
-<b><p align="center">(DONT DOWNLOAD, JUST CLICK AND BROWSE ON THIS SITE FOR A BETTER EXPERIENCE)</p></b>
+<b><p align="center">(DONT DOWNLOAD, JUST CLICK AND BROWSE ON THIS PAGE FOR A BETTER EXPERIENCE)</p></b>
 <p align="center">A documentation about how to hack Minecraft servers</p>
 
 ### Introduction
