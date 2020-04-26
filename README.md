@@ -3,7 +3,7 @@
 <p align="center">A documentation about how to destroy Minecraft servers</p>
 
 ### Introduction
-How griefers get administrator privileges is still a myth for a lot of players, server owners and administrators. In this documentation, you'll learn everything about how to exploit and grief Minecraft networks and how it all works in details.
+How griefers get OP (operator privileges) on servers is still a myth for a lot of players, server owners and administrators. In this documentation, you'll learn everything about how to exploit, discover and grief Minecraft networks, and how it all works in details.
 
 I've decided to write this documentation with a full explanation on how to do it, because I've seen a lot of script kiddies selling their "private" methods, where in reality, they're not private at all, nor their own methods.
 
