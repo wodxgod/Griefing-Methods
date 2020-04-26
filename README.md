@@ -29,7 +29,7 @@ I've decided to write this documentation with a full explanation on how to do it
         - Directory Traversal
             - [Holographic Displays](Exploitation/Directory%20Traversal/Holographic%20Displays.md)
             - [ServerSigns](Exploitation/Directory%20Traversal/ServerSigns.md)
-        - [UUID Spoofing](Exploitation/UUID%20Spoofing.md)
+        - [UUID Spoofing](Exploitation/UUID%20Spoofing.md) (HOT)
     - **Social Engineering**
         - [Poisoned Plugin](Social%20Engineering/Poisoned%20Plugin.md)
         - [Session Hijacking](Social%20Engineering/Session%20Hijacking.md)
