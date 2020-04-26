@@ -18,5 +18,7 @@ In the 1.8.9 versions of Minecraft and below, the latest session token can be fo
 
 All latest session tokens are cached in the `launcher_profiles.json` file located at `%appdata%\.minecraft\launcher_profiles.json` in any version of the game.
 
+When you have the token, you can use a tool developed by me to log in to the account through the Minecraft Launcher. Download it [here](https://github.com/wodxgod/mcjack).
+
 ### Prevention
 Never share any Minecraft logs or the `launcher_profiles.json` file, and never run any suspicious scripts and executables on your PC.
