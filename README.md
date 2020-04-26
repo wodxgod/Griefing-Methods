@@ -34,11 +34,11 @@ I've decided to write this documentation with a full explanation on how to do it
         - [Poisoned Plugin](Social%20Engineering/Poisoned%20Plugin.md)
         - [Session Hijacking](Social%20Engineering/Session%20Hijacking.md)
 2. Griefing Process Example
-    - [Finding a Vulnerable Server]()
-    - [Getting OP]()
-    - [Dumping the Servers Database]()
-    - [Getting RCON Access through ServerSigns]()
-    - [Griefing the Server]()
+    - [Finding a Vulnerable Server]() (work in progress)
+    - [Getting OP]() (work in progress)
+    - [Dumping the Servers Database]() (work in progress)
+    - [Getting RCON Access through ServerSigns]() (work in progress)
+    - [Griefing the Server]() (work in progress)
 
 There are other ways to gain access to a server. E.g. by bruteforcing or hacking into the back-end server through different vulnerabilities. These methods are more advanced and requires knowledge in hacking and exploitation, and will therefore not be added to this documentation, as this documentation is aimed at Minecraft servers only.
 
